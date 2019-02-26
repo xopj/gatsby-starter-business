@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: Straights and Curves
-heading: Running is life
+heading: 'A Running Zine '
 description: >-
   Straights and Curves is an independent, running-centric zine made in Portland,
   Oregon. Much like the time and effort that go into training cycles, we set out
