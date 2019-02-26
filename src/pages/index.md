@@ -3,35 +3,11 @@ templateKey: home-page
 title: Straights and Curves
 heading: Running is life
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Straights and Curves is an independent, running-centric zine made in Portland,
+  Oregon. Much like the time and effort that go into training cycles, we set out
+  to create a way to share the stories of runners and running in zine format.
 offerings:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae
-        tincidunt ut,  scelerisque eu sem. Etiam porttitor elit eget mi luctus,
-        vitae blandit enim pretium.  Aenean nec hendrerit leo, a bibendum magna.
-        In hac habitasse platea dictumst.  Suspendisse sapien magna, vestibulum
-        non vehicula id, pellentesque in ante. Nullam  sed auctor tellus. Sed
-        ipsum sem, dapibus nec eros in, feugiat sagittis mi.  Nullam et dui
-        interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
-      text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
-        Nam  ipsum nulla, dapibus eu mi non, commodo commodo sapien.
-        Pellentesque luctus  neque id mauris accumsan, nec imperdiet justo
-        eleifend. Nulla viverra, ipsum  sit amet interdum pharetra, felis lorem
-        sollicitudin felis, vehicula finibus  enim nunc facilisis sapien. Donec
-        nulla nisi, dictum quis nibh et, euismod  semper eros. Praesent nunc
-        tortor, consequat eu justo ac, dictum viverra enim.  Etiam sed dui
-        dapibus mauris congue facilisis. Nulla convallis, lectus vel  vehicula
-        interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam
-        consectetur congue.
     - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
@@ -45,18 +21,6 @@ offerings:
         sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet
         porttitor vehicula,  quam augue pretium erat, at commodo nisl tellus non
         risus.
-    - image: /img/meeting-space.png
-      text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
-        tincidunt mi. Vivamus  sed erat iaculis mauris efficitur vehicula.
-        Aliquam sed urna at tellus ullamcorper  venenatis molestie ut mi. Duis
-        vel libero ac lectus cursus tempus. Nullam in dictum felis.  Nam sed
-        laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac
-        scelerisque nisi  sodales. Cras tristique laoreet tempor. Mauris vitae
-        dolor eu mauris malesuada cursus.  Praesent elit lectus, iaculis vel
-        odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
-        massa quis euismod convallis, felis elit sodales urna, at aliquet mi
-        elit auctor  risus.
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
@@ -68,7 +32,7 @@ testimonials:
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
       elit.
-meta_title: Home | Straights and Curves
+meta_title: Home | Straights & Curves
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
