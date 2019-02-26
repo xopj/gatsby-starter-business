@@ -5,7 +5,8 @@ heading: Running is life
 description: >-
   Straights and Curves is an independent, running-centric zine made in Portland,
   Oregon. Much like the time and effort that go into training cycles, we set out
-  to create a way to share the stories of runners and running in zine format.
+  to create a way to share the stories of runners and running in a format that
+  we would spend time curating and assembling by hand.
 offerings:
   blurbs:
     - image: /img/tutorials.png
