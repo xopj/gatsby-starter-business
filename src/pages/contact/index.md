@@ -1,6 +1,6 @@
 ---
 templateKey: contact-page
-title: Contact Us
+title: Contact
 subtitle: We'd love to chat with you about running and your work!
 contacts:
   - description: >-
