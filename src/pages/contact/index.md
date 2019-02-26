@@ -7,7 +7,7 @@ contacts:
       We are currently accepting submissions from runners and writers in the
       Portland area and beyond.
     email: hello@straightsandcurves.com
-meta_title: Contact Us | Gatsby Starter Business
+meta_title: Contact Us | Straights & Curves
 meta_description: >-
   Contact us to have your writing featured in our next issue of Straights &
   Curves.
