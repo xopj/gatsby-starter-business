@@ -8,31 +8,10 @@ description: >-
   to create a way to share the stories inside running culture in a format that
   requires time, detail and getting our hands dirty.
 offerings:
-  blurbs:
-    - image: /img/tutorials.png
-      text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
-        vitae sollicitudin  pharetra, ipsum augue tristique urna, in rhoncus
-        quam tortor eget sem. Maecenas eu  pharetra orci, ut malesuada nisl.
-        Aliquam erat volutpat. Curabitur egestas eros tincidunt,  scelerisque
-        lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla.
-        Aliquam  erat volutpat. Vivamus ultrices venenatis maximus. Donec
-        volutpat vitae quam at fringilla.  Sed luctus lacus vel tempus posuere.
-        Ut suscipit auctor tortor. Phasellus leo dui, elementum  non
-        sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet
-        porttitor vehicula,  quam augue pretium erat, at commodo nisl tellus non
-        risus.
+  blurbs: []
 testimonials:
-  - author: Vaibhav Sharma
-    quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-      ligula. 
-  - author: Subarashi San
-    quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
-      elit.
+  - author: '-Bill Bowerman'
+    quote: Everything you need is already inside.
 meta_title: Home | Straights & Curves
 meta_description: >-
   We are currently accepting submissions. If you find your work to match our
