@@ -1,17 +1,13 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import Offerings from '../Offerings'
-import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
 
 const HomePageTemplate = ({
   title,
   heading,
   description,
-  offerings,
   meta_title,
   meta_description,
-  testimonials,
 }) => (
   <div>
     <Helmet>
@@ -47,7 +43,6 @@ const HomePageTemplate = ({
                   <p>{description}</p>
                 </div>
                 
-                
               </div>
             </div>
           </div>
@@ -63,10 +58,7 @@ HomePageTemplate.propTypes = {
   meta_description: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
-  offerings: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
-  testimonials: PropTypes.array,
+  
 
 }
 
