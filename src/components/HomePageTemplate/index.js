@@ -46,7 +46,7 @@ const HomePageTemplate = ({
                   </h3>
                   <p>{description}</p>
                 </div>
-                <Offerings gridItems={offerings.blurbs} />
+                
                 
               </div>
             </div>
