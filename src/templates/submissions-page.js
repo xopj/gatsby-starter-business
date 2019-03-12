@@ -28,7 +28,7 @@ SubmissionsPage.propTypes = {
 export default SubmissionsPage
 
 export const pageQuery = graphql`
-  query IndexPage($id: String!) {
+  query SubmissionsPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
