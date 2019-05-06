@@ -7,7 +7,7 @@ description: >
   Portland area and beyond.
 
 
-  We are currently accepting the following submission types:
+  <b>We are currently accepting the following submission types:</b>
 
   -Long & short format essays
 
